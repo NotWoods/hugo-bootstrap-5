@@ -14,7 +14,7 @@
 </section>
 {{ end }}
 
-{{ $paginator := .Paginate (where .Pages "Type" "post") }}
+{{ $paginator := .Paginate .Pages }}
 {{ range $paginator.Pages }}
 
     {{ if $truncate }}
