@@ -1,15 +1,15 @@
-# Hugo Bootstrap v4 Theme
+# Hugo Bootstrap v5 Theme
 
-This is a simple Hugo theme using [Bootstrap v4](https://getbootstrap.com/), inspired by [hugo-theme-bootstrap4-blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog).
+This is a simple Hugo theme using [Bootstrap v5](https://getbootstrap.com/), inspired by [hugo-bootstrap](https://github.com/Xzya/hugo-bootstrap).
 
 ## Demo
 
-You can find a demo [here](https://themes.gohugo.io/theme/hugo-bootstrap/).
+You can find a demo [here](https://themes.gohugo.io/theme/hugo-bootstrap-5/).
 
 ## Screenshots
 
-![preview](https://raw.githubusercontent.com/Xzya/hugo-bootstrap/master/images/screenshot.png)
-![preview](https://raw.githubusercontent.com/Xzya/hugo-bootstrap/master/images/screenshot2.png)
+![preview](https://raw.githubusercontent.com/NotWoods/hugo-bootstrap-5/master/images/screenshot.png)
+![preview](https://raw.githubusercontent.com/NotWoods/hugo-bootstrap-5/master/images/screenshot2.png)
 
 ## Configuration
 

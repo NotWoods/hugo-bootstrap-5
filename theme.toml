@@ -1,17 +1,17 @@
-name = "Hugo Bootstrap"
+name = "Hugo Bootstrap 5"
 license = "MIT"
-licenselink = "https://github.com/Xzya/hugo-bootstrap/blob/master/LICENSE.md"
-description = "A simple hugo theme using bootstrap"
-homepage = "https://github.com/Xzya/hugo-bootstrap"
+licenselink = "https://github.com/NotWoods/hugo-bootstrap-5/blob/master/LICENSE.md"
+description = "A simple hugo theme using Bootstrap 5"
+homepage = "https://github.com/NotWoods/hugo-bootstrap-5"
 tags = ["blog", "multilingual", "bootstrap"]
 features = ["blog", "responsive", "Google Analytics", "bootstrap", "multilingual", "i18n"]
-min_version = 0.15
+min_version = 0.70
 
 [author]
-  name = "Mihail Cristian Dumitru"
-  homepage = "https://github.com/Xzya"
+  name = "Tiger Oakes"
+  homepage = "https://tigeroakes.com"
 
 [original]
-  author =  "Alan Orth"
-  homepage = "https://github.com/alanorth/hugo-theme-bootstrap4-blog"
-  repo = "https://github.com/alanorth/hugo-theme-bootstrap4-blog"
+  author =  "Mihail Cristian Dumitru"
+  homepage = "https://github.com/Xzya"
+  repo = "https://github.com/Xzya/hugo-bootstrap"

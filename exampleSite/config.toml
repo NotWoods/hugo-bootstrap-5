@@ -8,7 +8,7 @@ paginate = 3
 paginatePath = "page"
 
 # Theme to use
-theme = "hugo-bootstrap"
+theme = "hugo-bootstrap-5"
 
 [taxonomies]
   tag = "tags"
