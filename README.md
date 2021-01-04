@@ -2,6 +2,24 @@
 
 This is a simple Hugo theme using [Bootstrap v5](https://getbootstrap.com/), inspired by [hugo-bootstrap](https://github.com/Xzya/hugo-bootstrap).
 
+## Installation
+
+You can install the theme either as a clone or submodule.
+
+I recommend the latter. From the root of your Hugo site, type the following:
+
+```shell
+$ git submodule add https://github.com/NotWoods/hugo-bootstrap-5.git themes/minimal
+$ git submodule init
+$ git submodule update
+```
+
+Now you can get updates to Minimal in the future by updating the submodule:
+
+```
+$ git submodule update --remote themes/minimal
+```
+
 ## Demo
 
 You can find a demo [here](https://themes.gohugo.io/theme/hugo-bootstrap-5/).
