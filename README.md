@@ -9,15 +9,15 @@ You can install the theme either as a clone or submodule.
 I recommend the latter. From the root of your Hugo site, type the following:
 
 ```shell
-$ git submodule add https://github.com/NotWoods/hugo-bootstrap-5.git themes/minimal
+$ git submodule add https://github.com/NotWoods/hugo-bootstrap-5.git themes/hugo-bootstrap-5
 $ git submodule init
 $ git submodule update
 ```
 
-Now you can get updates to Minimal in the future by updating the submodule:
+Now you can get updates to the theme in the future by updating the submodule:
 
 ```
-$ git submodule update --remote themes/minimal
+$ git submodule update --remote themes/hugo-bootstrap-5
 ```
 
 ## Demo
