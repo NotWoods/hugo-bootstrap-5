@@ -5,4 +5,6 @@
     {{ if default true .Site.Params.sidebar.showTaxonomy }}
         {{ partial "taxonomies" . }}
     {{ end }}
+
+    {{ partial "sidebar-custom.html" . }}
 </aside>
