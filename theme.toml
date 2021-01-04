@@ -5,7 +5,7 @@ description = "A simple hugo theme using Bootstrap 5"
 homepage = "https://github.com/NotWoods/hugo-bootstrap-5"
 tags = ["blog", "multilingual", "bootstrap"]
 features = ["blog", "responsive", "Google Analytics", "bootstrap", "multilingual", "i18n"]
-min_version = 0.70
+min_version = 0.56
 
 [author]
   name = "Tiger Oakes"

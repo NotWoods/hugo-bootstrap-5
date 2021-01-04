@@ -2,7 +2,7 @@
 <div class="blog-post-tags text-secondary">
     <strong>{{ i18n "tags" }}:</strong>
     {{ range .Params.tags }}
-        <a class="badge badge-primary" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        <a class="btn btn-primary btn-small badge" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
     {{ end }}
 </div>
 {{ end }}
